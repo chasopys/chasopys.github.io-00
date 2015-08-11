@@ -1,3 +1,6 @@
+.header{
+    background-color: yellow;
+}
 .logo{
     float: left;
 }
@@ -7,6 +10,9 @@
 .clearfix{
     clear: both;
     height: 0px;
+}
+.content{
+    background-color: orange;
 }
 .centred {
     display: block;
