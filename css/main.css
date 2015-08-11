@@ -13,3 +13,11 @@
     margin-left: auto;
     margin-right: auto;
 }
+.campaigns-filter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.campaigns-filter button{
+    width: 100px;
+}
