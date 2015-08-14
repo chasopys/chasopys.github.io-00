@@ -20,6 +20,7 @@
 .user-activity{
     background-color: greenyellow;
 }
+
 .centred {
     display: block;
     margin-left: auto;
@@ -38,3 +39,9 @@
     color: white;
     background-color: darkolivegreen;
 }
+.footer-menu{
+    list-style-type: none;
+}
+button {
+     min-width: 110px;
+ }
